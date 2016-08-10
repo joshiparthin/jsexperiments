@@ -47,7 +47,7 @@ Here is a sample code for its usage.
             });
 ```
 # Notice
-this plugin is still in alpha stage and not tested compatible with all cases. There is no warrenty for this code and use it at your own risk. 
+this plugin is still in alpha stage and not tested compatible with all cases. There is no warranty for this code and use it at your own risk. 
 
 # TODO:
 - [ ] passing options of jquery cookie plugin
