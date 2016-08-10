@@ -6,6 +6,8 @@ This is a basic jquery plugin I made to enable jQuery autocomplete suggestions b
 2. jQuery UI
 3. [jQuery Cookie Plugin ](https://plugins.jquery.com/cookie/)
 
+## Download 
+Download the plugin file from here: [jq.cookie.autocomplete.js](https://github.com/joshiparthin/jsexperiments/blob/master/jq-cookie-autocomplete/public/javascripts/jq.cookie.autocomplete.js)
 ## Getting Started
 In your html code you can include dependent scripts/css like following:
 
